@@ -1,2 +1,2 @@
-# CSE428 Image Processing
+# CSE428 Image Processing Project
 - Video Presentation link- https://youtu.be/3VCDfIpzzxU 
